@@ -27,6 +27,6 @@ As depicted in the above figure, if we lay a simple 3D coordinate system into ou
 Naturally, becasue of the existance of friction, a helicopter without the use of a back rotor would start spining coaxially aroundf the z-axis since the torgue exerted by the trubine onto the main rotor is not counteracted. For theis very purpose do we require a back rotor. Adjusting the strngth with which it generates thurst (also a type of collective) is considererd "yaw control". Its puropose besides counteracting the torque created by the turbine, is also to allow the rotation about the z-axis.
 
 ## Chapter 2: In-game Flight Controls <a name="ch2"></a>
-
+CHeck
 
 
