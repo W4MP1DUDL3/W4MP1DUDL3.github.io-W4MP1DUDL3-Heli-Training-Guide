@@ -14,3 +14,7 @@ In our case since a helicopter controls the amount of lift by angling the blades
 
 As depicted in the above figure, if we lay a simple 3D coordinate system into our helicopter, then rotation of the helicopter about its y-axis is considered pitch and rotation about the x-axis is considered roll. Physically, these are controlled by the joystick in your right hand and are reffered to as you "cyclic". AS you might have noticed in the video linked above, this is controlled by the actuation of the "swashpate". This is a relatively fancy and complex bearing that allows us to manipulate a set of rotors to adjust the direction that the lift vector points to.
 
+Naturally, becasue of the existance of friction, a helicopter without the use of a back rotor would start spining coaxially aroundf the z-axis since the torgue exerted by the trubine onto the main rotor is not counteracted. For theis very purpose do we require a back rotor. Adjusting the strngth with which it generates thurst (also a type of collective) that what is considererd yaw control. Its puropose besides counteracting the torque created by the turbine, is also to allow the rotation about the z-axis.
+
+
+
