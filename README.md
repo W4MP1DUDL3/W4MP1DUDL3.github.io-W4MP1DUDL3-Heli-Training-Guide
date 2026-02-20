@@ -8,5 +8,9 @@ The physics of flight have long been studied and can be summarized as follows. F
 
 In our case since a helicopter controls the amount of lift by angling the blades. This is what is reffered to as "collective". The term "collective" comes from the mechanics that is used to control the pitch of the rotor blades. Going even further into this area of knowledge would probably exhasut a full chapter so feel free to check out the following video for some more information: https://www.youtube.com/watch?v=xairCL9m9ec. Physically, the colelctive is always going to be your left hand. The three other controls that remain to be explained are pitch, roll and yaw.
 
-<img width="505" height="369" alt="image" src="https://github.com/user-attachments/assets/be7b4b21-253a-45d2-8d08-928f13e8e45a" />
+<p align="center">
+  <img width="505" height="369" alt="image" src="https://github.com/user-attachments/assets/be7b4b21-253a-45d2-8d08-928f13e8e45a" />
+</p>
+
+
 
