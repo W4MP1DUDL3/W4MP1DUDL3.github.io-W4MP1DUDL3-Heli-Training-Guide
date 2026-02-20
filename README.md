@@ -12,5 +12,5 @@ In our case since a helicopter controls the amount of lift by angling the blades
   <img width="505" height="369" alt="image" src="https://github.com/user-attachments/assets/be7b4b21-253a-45d2-8d08-928f13e8e45a" />
 </p>
 
-
+As depicted in the above figure, if we lay a simple 3D coordinate system into our helicopter, then rotation of the helicopter about its y-axis is considered pitch and rotation about the x-axis is considered roll. Physically, these are controlled by the joystick in your right hand and are reffered to as you "cyclic". AS you might have noticed in the video linked above, this is controlled by the actuation of the "swashpate". This is a relatively fancy and complex bearing that allows us to manipulate a set of rotors to adjust the direction that the lift vector points to.
 
