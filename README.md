@@ -33,6 +33,9 @@ Fight controls are something that varies greatly from game to game. The default 
   <img width="531" height="361" alt="grafik" src="https://github.com/user-attachments/assets/7a87442e-8fd1-4599-91de-b2ce89df3031" />
 </p>
 
-Subsequntly, be sure to change the bind for enginge ignition. Personally, I have set mine to "I" for "Ignition". The setting can be found under the "Ground Vehicles" tab.
+Subsequntly, be sure to change the bind for enginge ignition. Personally, I have set mine to "I" for "Ignition". The setting can be found under the "Ground Vehicles" tab. If you have ever player WarThunder with realistic controls these are very similar. The point of the above layout is that it mirrors the layout in real life. While the yoke is repreasaented by "WASD", the pedals that control yaw are represented by "Q" and "E" and the collective that is on the left usually is represented by "Left Shift" and "Left Ctrl".
 
 ## Chapter 3: TEST <a name="ch3"></a>
+
+
+
