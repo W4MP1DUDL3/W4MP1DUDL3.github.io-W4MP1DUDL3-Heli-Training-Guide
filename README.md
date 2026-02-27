@@ -8,7 +8,7 @@ This training guide is intended for anybody that wants to learn or become better
 
 2.[Chapter 2: In-game Flight Controls](##ch2)
 
-
+3.[Chapter 3: TEST](##ch3)
 
 
 
@@ -33,6 +33,6 @@ Fight controls are something that varies greatly from game to game. The default 
   <img width="531" height="361" alt="grafik" src="https://github.com/user-attachments/assets/7a87442e-8fd1-4599-91de-b2ce89df3031" />
 </p>
 
-Subsequntly, be sure to change the bind for enginge ignition. Personally I have set mine to "I" for "Ignition". The setting can be found under the "Ground Vehicles" tab.
+Subsequntly, be sure to change the bind for enginge ignition. Personally, I have set mine to "I" for "Ignition". The setting can be found under the "Ground Vehicles" tab.
 
-
+## Chapter 3: TEST <a name="ch3"></a>
