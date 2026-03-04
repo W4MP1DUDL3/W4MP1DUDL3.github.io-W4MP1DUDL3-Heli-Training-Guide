@@ -27,7 +27,8 @@ As depicted in the above figure, if we lay a simple 3D coordinate system into ou
 Naturally, becasue of the existance of friction, a helicopter without the use of a back rotor would start spining coaxially aroundf the z-axis since the torgue exerted by the trubine onto the main rotor is not counteracted. For theis very purpose do we require a back rotor. Adjusting the strngth with which it generates thurst (also a type of collective) is considererd "yaw control". Its puropose besides counteracting the torque created by the turbine, is also to allow the rotation about the z-axis.
 
 ## Chapter 2: In-game Flight Controls <a name="ch2"></a>
-###Keybinds:
+### Keybinds:
+
 Fight controls are something that varies greatly from game to game. The default controls set out by the devs are as follows. While pitch and roll are controlled by your mouse on the y- and x-axes respectively, collective is set on "W" and "S" and yaw control is "A" and "D". The general consensous amongst very skilled and seasioned pilots is clear: default controls are simply put not enough to become proficient. Flying in squad is easily the best example of "easy to learn but hard to master" seeing as manuevers can be learnt swiftly but becoming consistent is by far the hardest thing in this game while jointly being the key to proficiency. In order to become consistent at flying one must limit all possible factors that could lead to deviations while flying certain manuevers. SHould you want ot follwo this guide to a tee please adjust the following controls in your settings:
 
 <p align="center">
@@ -36,7 +37,7 @@ Fight controls are something that varies greatly from game to game. The default 
 
 Subsequntly, be sure to change the bind for enginge ignition. Personally, I have set mine to "I" for "Ignition". The setting can be found under the "Ground Vehicles" tab. If you have ever player WarThunder with realistic controls these are very similar. The point of the above layout is that it mirrors the layout in real life. While the yoke is repreasaented by "WASD", the pedals that control yaw are represented by "Q" and "E" and the collective that is on the left usually is represented by "Left Shift" and "Left Ctrl".
 
-###Other prerequisite settings.
+### Other prerequisite settings.
 Besides the above discussed keybinds we must also condier the following miscelanious settings. First of under "Game" settings find "Helicopter  Sensitivity" and adjust that to the maxiumum of '4.0'. This is going to make all controls feel a lot more sensitive which will be a requirement for the later manuevers such as quick j-hooks, scorpion-hooks, barrel-rolls, and a heap of other manuevers.
 
 Next we will want to find the "View Distance" setting under "Video" settings. Make sure to have this on "High" or "------".
