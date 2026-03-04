@@ -58,5 +58,8 @@ For this very reason it is encouraged to practtice on a server with ping. Since 
 ### DMH Heli Training Server:
 The "Dead Mans Hand" SQUAD community has its own Heli Training server which I can whole-heartedly rercommmed as it allows you to change the maps your want to train on without needing an Admin to change it for you.
 
+CONTROLS
+
+### Focusing on the basics:
 
 
