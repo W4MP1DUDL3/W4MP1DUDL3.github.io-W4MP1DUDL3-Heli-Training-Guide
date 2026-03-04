@@ -60,6 +60,26 @@ The "Dead Mans Hand" SQUAD community has its own Heli Training server which I ca
 
 CONTROLS
 
+For the practice make sure to be on a map with trees such as Yehorivka or Gorodok.
+
 ### Focusing on the basics:
+When you have loaded into a map, be sure to open a locked squad. Grab a "Lead Pilot" kit and either spawn of get into a helicopter. For the forseable future we are gooing to limit ourselves to medium and large helicopters only. Look for a Uh-60 Blackhawk preferably. Since light helicopters are more manueverable they give syou less time to think which is counterproductive to your stage in training. Get into the Helicopter and press "I" to start the turbine. Increase your collective to 100% using "LeftShift", then slowly pitch forward the helicopter by moving the mouse away from you. Carefull however, if you pitch forward to far you wont have enough lift to stay in the air. Gain some speed and start flying about the map only using your mouse. Keep your collective at 100% while flying about. Get used to your mouse control and slowly start flying closer and closer to the tree tops on the map. Make small and big turns by changing how aggresivvely you move your mouse. While flying about feel free to test the limits of how far you pitch the helicopter in either direction before you stall and loose directional control. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
