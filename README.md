@@ -56,9 +56,11 @@ A simmple example of said change in response is the change in the landing distan
 For this very reason it is encouraged to practtice on a server with ping. Since we however dont want to fly on live servers too pracitce we must teherefore resurt to the custoom browser. In the search field type "Heli" and select a suitable heli training server with one of the two heli trianing mods.
 
 ### DMH Heli Training Server:
-The "Dead Mans Hand" SQUAD community has its own Heli Training server which I can whole-heartedly rercommmed as it allows you to change the maps your want to train on without needing an Admin to change it for you.
+The "Dead Mans Hand" SQUAD community has its own Heli Training server which I can whole-heartedly recommmed as it allows you to change the maps your want to train on without needing an Admin to change it for you. Please note that this is a modded server which will prompt you to download the following [mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3309058364).
 
-<img width="493" height="305" alt="image" src="https://github.com/user-attachments/assets/69d65be5-3eb8-4801-bdf9-8cc17994c547" />
+<p align="center">
+  <img width="477" height="268" alt="image" src="https://github.com/user-attachments/assets/69e6652c-c88c-4e67-8bd1-ea89b617811a" />
+</p>
 
 
 For the practice make sure to be on a map with trees such as Yehorivka or Gorodok.
