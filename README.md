@@ -58,7 +58,8 @@ For this very reason it is encouraged to practtice on a server with ping. Since 
 ### DMH Heli Training Server:
 The "Dead Mans Hand" SQUAD community has its own Heli Training server which I can whole-heartedly rercommmed as it allows you to change the maps your want to train on without needing an Admin to change it for you.
 
-CONTROLS
+<img width="493" height="305" alt="image" src="https://github.com/user-attachments/assets/69d65be5-3eb8-4801-bdf9-8cc17994c547" />
+
 
 For the practice make sure to be on a map with trees such as Yehorivka or Gorodok.
 
@@ -66,7 +67,7 @@ For the practice make sure to be on a map with trees such as Yehorivka or Gorodo
 When you have loaded into a map, be sure to open a locked squad. Grab a "Lead Pilot" kit and either spawn of get into a helicopter. For the forseable future we are gooing to limit ourselves to medium and large helicopters only. Look for a Uh-60 Blackhawk preferably. Since light helicopters are more manueverable they give syou less time to think which is counterproductive to your stage in training. Get into the Helicopter and press "I" to start the turbine. Increase your collective to 100% using "LeftShift", then slowly pitch forward the helicopter by moving the mouse away from you. Carefull however, if you pitch forward to far you wont have enough lift to stay in the air. Gain some speed and start flying about the map only using your mouse. Keep your collective at 100% while flying about. Get used to your mouse control and slowly start flying closer and closer to the tree tops on the map. Make small and big turns by changing how aggresivvely you move your mouse. While flying about feel free to test the limits of how far you pitch the helicopter in either direction before you stall and loose directional control. 
 
 
-Once you have grown a custom to the limitation of the helicopter feel free to now add "yaw" into your turns using "Q" and "E". Ask yourself, what does the helicopter do when I press either in a turn? What pattern do you recognize? Try this at different speeds and see how airspeeds affects your yaw control. What do you notice? Remember these observations for later as itt will help you to identify what you might be doing wrong, should you crash. Once you can comfortably keep the helicopter just over tree top level you are able to continue to the next section. Until you get to that point dont continue, jsut restet and try again.
+Once you have grown a custom to the limitation of the helicopter feel free to now add "yaw" into your turns using "Q" and "E". Ask yourself, what does the helicopter do when I press either in a turn? What pattern do you recognize? Try this at different speeds and see how airspeeds affects your yaw control. What do you notice? Remember these observations for later as itt will help you to identify what you might be doing wrong, should you crash. Once you can comfortably keep the helicopter just over tree top level you are able to continue to the next section. Please be aware that 99% of the following content is 
 
 ### The first step to slowing down:
 
