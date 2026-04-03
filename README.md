@@ -70,6 +70,12 @@ Once you have grown a custom to the limitation of the helicopter feel free to no
 
 ### Keeping your airspeed:
 
+RIDING THE BUBBLE
+
+SLOW IS SMOOTH AND SMOOTTH IS FAST
+
+YAW IN TRUNS
+
 
 Please note that the following content will treat on your ability to turn, keep, control and manipulate your airspeed as well as your height from the ground without having to think about what countrols are to be pressed as a prerequisite skill.
 
