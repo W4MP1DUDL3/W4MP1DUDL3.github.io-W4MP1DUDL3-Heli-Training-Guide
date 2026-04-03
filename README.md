@@ -73,8 +73,21 @@ Once you have grown a custom to the limitation of the helicopter feel free to no
 
 Please note that the following content will treat on your ability to turn, keep, control and manipulate your airspeed as well as your height from the ground without having to think about what countrols are to be pressed as a prerequisite skill.
 
-### The first step to slowing down:
+### The first step to landing:
 
+#### APPROACH
+
+#### ZERO COLL LANDING
+
+ZERO COLL LANDING +YAW
+
+
+### The J-Hook:
+
+### Getting comfortable with dropping the collective.
+
+
+TREELINE HOPPING
 
 
 
