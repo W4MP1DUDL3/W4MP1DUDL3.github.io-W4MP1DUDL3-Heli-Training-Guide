@@ -73,8 +73,7 @@ Once you have grown a custom to the limitation of the helicopter feel free to no
 
 One way to keep your airpeed is to be"[Riding the bubble](___)". It is a term that is used to describe a set of constantly occuring cyclic adjustments aimed at trying to find the sweeet spot betweeen pitching to  little of too far forward. Usually these cyclic moments are no more than 5 up and down at a time. More specifically speaking, one treis to qualitatively asswertain the optimal inclination of the helicopter aas to where the component of thrust pointing in the direction of motion is equal is maximized while not falling out of the sky. This additionally is also where the helicxopters terminal velocity stemms from.
 
-Another way one can maintain speed is by remembering the fact that smoothness of flight especially when turning will alwys allow you to maintain a more consistent airspeed. The 
-SLOW IS SMOOTH AND SMOOTTH IS FAST
+Another way one can maintain speed is by remembering the fact that smoothness of flight especially when turning will allawys allow you to maintain a more consistent airspeed. Teh very common saying "Slow is smooth and smooth is fast" really iw worth its weight in gold. The smoother the manuevers the more consistent the speed, the more predicattable the flightpath, the faster you can terverse the battlefield.
 
 YAW IN TRUNS
 
