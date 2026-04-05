@@ -76,8 +76,20 @@ One way to keep your airpeed is to be"[Riding the bubble](___)". It is a term th
 Another way one can maintain speed is by remembering the fact that smoothness of flight especially when turning will allawys allow you to maintain a more consistent airspeed. Teh very common saying "Slow is smooth and smooth is fast" really iw worth its weight in gold. The smoother the manuevers the more consistent the speed, the more predicattable the flightpath, the faster you can terverse the battlefield.
 
 YAW IN TRUNS
+Yawing in turns is another method that can be used to affect the flightpath and subsequenttly the conservation of speed. There are of course two options; yawing with the turn or yawing against the turn. Lets take for example big right hand trun.
+
+ADD PICTURE OF RIGHT HAND TURN.
+
+When adding yaw right yaw the helicopters nose will slowly tend to point towards the ground if not corecteed. ADD EFFECTS OF SAID TRUN.
+
+When however adding yaw to tthe left, the nose will tend to point more towards the sky if not corrected. ADD EFFECTS OF SAID TURN.
+------------------------------------------------
 
 
+One very important concept that needs to be montioned in light of these observations is the fact that the faster you go, the less effective the yaw control will be and therefore the less noticable the effects are. Additionally, the larer of a helicopter you choose to fly the less impact the yaw has as its effctiveness is inversly proportioal to the length and therfore the size of helicopter.
+
+
+NOTE:
 Please note that the following content will treat on your ability to turn, keep, control and manipulate your airspeed as well as your height from the ground without having to think about what countrols are to be pressed as a prerequisite skill.
 
 ### The first step to landing:
