@@ -83,6 +83,8 @@ ADD PICTURE OF RIGHT HAND TURN.
 When adding yaw right yaw the helicopters nose will slowly tend to point towards the ground if not corecteed. ADD EFFECTS OF SAID TRUN.
 
 When however adding yaw to the left, the nose will tend to point more towards the sky if not corrected. ADD EFFECTS OF SAID TURN.
+
+
 ------------------------------------------------
 
 
