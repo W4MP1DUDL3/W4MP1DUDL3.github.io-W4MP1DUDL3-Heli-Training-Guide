@@ -7,6 +7,7 @@ This training guide is intended for anybody that wants to learn or become better
 1.[Chapter 1: Basic Helicopter Terminology and Physics](##ch1)
 
 2.[Chapter 2: In-game Flight Controls](##ch2)
+  a.[Keyabinds](###ch2sec1)
 
 3.[Chapter 3: First Flight Foci](##ch3)
 
@@ -38,7 +39,7 @@ Naturally, becasue of the existance of friction, a helicopter without the use of
 
 
 ## Chapter 2: In-game Flight Controls <a name="ch2"></a>
-### Keybinds:
+### Keybinds: <a name="ch2sec1"></a>
 Fight controls are something that varies greatly from game to game. The default controls set out by the devs are as follows. While pitch and roll are controlled by your mouse on the y- and x-axes respectively, collective is set on "W" and "S" and yaw control is "A" and "D". The general consensous amongst very skilled and seasioned pilots is clear: default controls are simply put not enough to become proficient. Flying in squad is easily the best example of "easy to learn but hard to master" seeing as manuevers can be learnt swiftly but becoming consistent is by far the hardest thing in this game while jointly being the key to proficiency. In order to become consistent at flying one must limit all possible factors that could lead to deviations while flying certain manuevers. SHould you want ot follwo this guide to a tee please adjust the following controls in your settings:
 
 <p align="center">
@@ -103,7 +104,7 @@ One very important concept that needs to be montioned in light of these observat
 NOTE:
 Please note that the following content will treat on your ability to turn, keep, control and manipulate your airspeed as well as your height from the ground without having to think about what countrols are to be pressed as a prerequisite skill.
 
-### The first step to landing:
+## Chapter 4: Landing Basics <a name="ch4"></a>
 
 #### APPROACH
 The concept of 
@@ -119,7 +120,6 @@ ZERO COLL LANDING +YAW
 ### Getting comfortable with dropping the collective.
 
 
-TREELINE HOPPING
 
 
 
@@ -127,14 +127,6 @@ TREELINE HOPPING
 
 
 
-
-
-
-
-### Riding the bubble:
-
-### Scouting:
-
-
-
-
+## Chapter 5: In-Game Roles & Applications <a name="ch5"></a>
+## Chapter 6: Advanced Helicopter Manuevers <a name="ch6"></a>
+## Chapter 7: Advanced Helicopter Practicies <a name="ch7"></a>
