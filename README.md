@@ -8,8 +8,6 @@ This training guide is intended for anybody that wants to learn or become better
 
 2.[Chapter 2: In-game Flight Controls](##ch2)
 
-  a.[Keybinds](###ch2sec1)
-
 3.[Chapter 3: First Flight Foci](##ch3)
 
 4.[Chapter 4: Landing Basics](##ch4)
