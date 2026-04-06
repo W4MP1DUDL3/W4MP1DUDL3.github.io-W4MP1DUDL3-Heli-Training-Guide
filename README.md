@@ -10,7 +10,7 @@ This training guide is intended for anybody that wants to learn or become better
 
 ---2a.[Section 1: Keybinds](#chapter2sect1)
 
----b.[Section 2: Other Prerequisite Settings](#chapter2sect2)
+---2b.[Section 2: Other Prerequisite Settings](#chapter2sect2)
 
 3.[Chapter 3: First Flight Foci](#ch3)
 
