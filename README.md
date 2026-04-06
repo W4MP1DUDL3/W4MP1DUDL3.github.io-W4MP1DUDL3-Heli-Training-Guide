@@ -4,21 +4,21 @@
 This training guide is intended for anybody that wants to learn or become better at, flying in the game of SQUAD. In terms of current skill level this guide has the capability to extend to both ends of the spectrum. From the most basic helicopter physics to meta-level stategies for pilots every tiopic is goping to be covered extensively, so feel free to jump arround and read whatever seems new to you. Should you decide to follow the guide from the very beginning, you will learn everything needed to become one of the most consistend and well trained individuals in the SQUAD playerbase.
 
 ### Table of Contents
-1.[Chapter 1: Basic Helicopter Terminology and Physics](##ch1)
+1.[Chapter 1: Basic Helicopter Terminology and Physics](#ch1)
 
-2.[Chapter 2: In-game Flight Controls](##ch2)
+2.[Chapter 2: In-game Flight Controls](#ch2)
 
---- a.[Section 1: Keybinds](###chapter2sect1)
+--- a.[Section 1: Keybinds](#chapter2sect1)
 
-3.[Chapter 3: First Flight Foci](##ch3)
+3.[Chapter 3: First Flight Foci](#ch3)
 
-4.[Chapter 4: Landing Basics](##ch4)
+4.[Chapter 4: Landing Basics](#ch4)
 
-5.[Chapter 5: In-Game Roles & Applications](##ch5)
+5.[Chapter 5: In-Game Roles & Applications](#ch5)
 
-6.[Chapter 6: Advanced Helicopter Manuevers](##ch6)
+6.[Chapter 6: Advanced Helicopter Manuevers](#ch6)
 
-7.[Chapter 7: Advanced Helicopter Practicies](##ch7)
+7.[Chapter 7: Advanced Helicopter Practicies](#ch7)
 
 
 
