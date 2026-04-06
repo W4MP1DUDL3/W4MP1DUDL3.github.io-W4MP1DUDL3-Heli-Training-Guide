@@ -7,7 +7,9 @@ This training guide is intended for anybody that wants to learn or become better
 1.[Chapter 1: Basic Helicopter Terminology and Physics](##ch1)
 
 2.[Chapter 2: In-game Flight Controls](##ch2)
-    a.[Section 1: Keybinds](###chapter2sect1)
+
+--- a.[Section 1: Keybinds](###chapter2sect1)
+
 3.[Chapter 3: First Flight Foci](##ch3)
 
 4.[Chapter 4: Landing Basics](##ch4)
