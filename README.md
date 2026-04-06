@@ -8,7 +8,16 @@ This training guide is intended for anybody that wants to learn or become better
 
 2.[Chapter 2: In-game Flight Controls](##ch2)
 
-3.[Chapter 3: TEST](##ch3)
+3.[Chapter 3: First Flight Foci](##ch3)
+
+4.[Chapter 4: Landing Basics](##ch4)
+
+5.[Chapter 5: In-Game Roles & Applications](##ch5)
+
+6.[Chapter 6: Advanced Helicopter Manuevers](##ch6)
+
+7.[Chapter 7: Advanced Helicopter Practicies](##ch7)
+
 
 
 
