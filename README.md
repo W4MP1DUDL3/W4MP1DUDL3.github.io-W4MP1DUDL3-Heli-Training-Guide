@@ -8,7 +8,9 @@ This training guide is intended for anybody that wants to learn or become better
 
 2.[Chapter 2: In-game Flight Controls](#ch2)
 
-    a.[Section 1: Keybinds](#chapter2sect1)
+---a.[Section 1: Keybinds](#chapter2sect1)
+
+---a.[Section 2: Other Prerequisite Settings](#chapter2sect2)
 
 3.[Chapter 3: First Flight Foci](#ch3)
 
@@ -51,7 +53,7 @@ Subsequntly, be sure to change the bind for enginge ignition. Personally, I have
 
 With respect to the "Logistics" role aspect of a helicopter, it is highly recomended too bind the load and unloading of eitther supply types to selectt, easy-to-reach keys on your setup. This is purely up to personal preference ottherwise. 
 
-### Other prerequisite settings:
+### Other prerequisite settings: <a name="chapter2sect2"></a>
 Besides the above discussed keybinds we must also condier the following miscelanious settings. First of under "Game" settings find "Helicopter  Sensitivity" and adjust that to the maxiumum of '4.0'. This is going to make all controls feel a lot more sensitive which will be a requirement for the later manuevers such as quick j-hooks, scorpion-hooks, barrel-rolls, and a heap of other manuevers.
 
 Next we will want to find the "View Distance" setting under "Video" settings. Make sure to have this on "High" or "------". This is key to being able to identify landing zones as well as scouting for vehicles from a far distance.
