@@ -8,11 +8,13 @@ This training guide is intended for anybody that wants to learn or become better
 
 2.[Chapter 2: In-game Flight Controls](#ch2)
 
----a.[Section 1: Keybinds](#chapter2sect1)
+---2a.[Section 1: Keybinds](#chapter2sect1)
 
----a.[Section 2: Other Prerequisite Settings](#chapter2sect2)
+---b.[Section 2: Other Prerequisite Settings](#chapter2sect2)
 
 3.[Chapter 3: First Flight Foci](#ch3)
+
+---3a.[Section 1: Prerequisites](#chapter3sect1)
 
 4.[Chapter 4: Landing Basics](#ch4)
 
@@ -60,8 +62,8 @@ Next we will want to find the "View Distance" setting under "Video" settings. Ma
 
 
 
-## Chapter 3: Your first flight <a name="ch3"></a>
-### Prerequisites:
+## Chapter 3: First Flight Foci <a name="ch3"></a>
+### Prerequisites: <a name="chapter3sect1"></a>
 Flying like anything in SQUAD is ping depenndent. In turn this means that changes to speed-, elevation- and damage- and control-values are processed by the servers you play on. Consequently, playing on an offline/local server, as for example the Jensens training range, will mean that the helicopters resonses to your control imputs are going to be way different to the ones on a live server.
 
 A simmple example of said change in response is the change in the landing distance after a jhook. After the j-hook manuever is executeedd there is a brief period in which the last few bitts of horizontal momentum are shed of by air resistance. The higher your ping is the longer  that  distance will be.
