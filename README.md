@@ -16,6 +16,9 @@ This training guide is intended for anybody that wants to learn or become better
 
 ---3a.[Section 1: Prerequisites](#chapter3sect1)
 
+---3b.[Section 2: The DMH Heli Training Server](#chapter3sect2)
+
+
 4.[Chapter 4: Landing Basics](#ch4)
 
 5.[Chapter 5: In-Game Roles & Applications](#ch5)
@@ -70,7 +73,7 @@ A simmple example of said change in response is the change in the landing distan
 
 For this very reason it is encouraged to practtice on a server with ping. Since we however dont want to fly on live servers too pracitce we must teherefore resurt to the custoom browser. In the search field type "Heli" and select a suitable heli training server with one of the two heli trianing mods.
 
-### DMH Heli Training Server:
+### The DMH Heli Training Server: <a name="chapter3sect2"></a>
 The "Dead Mans Hand" SQUAD community has its own Heli Training server which I can whole-heartedly recommmed as it allows you to change the maps your want to train on without needing an Admin to change it for you. Please note that this is a modded server which will prompt you to download the following [mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3309058364). Specific instrucitons on the special controls can be found on the workshop page.
 
 <p align="center">
