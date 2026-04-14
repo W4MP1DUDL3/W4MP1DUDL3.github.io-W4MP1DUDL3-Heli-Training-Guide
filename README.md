@@ -103,19 +103,27 @@ When adding yaw right yaw the helicopters nose will slowly tend to point towards
 When however adding yaw to the left, the nose will tend to point more towards the sky if not corrected. ADD EFFECTS OF SAID TURN.
 
 
-------------------------------------------------
-
-
 One very important concept that needs to be montioned in light of these observations is the fact that the faster you go, the less effective the yaw control will be and therefore the less noticable the effects are. Additionally, the larer of a helicopter you choose to fly the less impact the yaw has as its effctiveness is inversly proportioal to the length and therfore the size of helicopter.
 
 
 NOTE:
 Please note that the following content will treat on your ability to turn, keep, control and manipulate your airspeed as well as your height from the ground without having to think about what countrols are to be pressed as a prerequisite skill.
 
+
+--------------------------
+--------------------------
+
+
 ## Chapter 4: Landing Basics <a name="ch4"></a>
 
-#### APPROACH
-The concept of 
+#### The APPROACH
+Ask any expreienced pilot and they will agree that the approach is one of the corenerstones of any good landing. Especially if you are not a seasoned pilot in squad, people will often underrestimate just how easy a landing can be made just by setting a propper aproach. It is the concept of predefining a flight path as to respect terrain, expected enemy positions and possible team orders with the intent of maximizing the pilots focus on the landing manuever thereby minimizing the otherwise induced stress.To further explain the previous sentence; determining a propper aproach before taking off will allow you, especially in high stess situations, to focus more on the landing manuever itself which even for seaoned pilots can often mean the difference between a safe or a rushed and dodgy, possibly fatal landing. Allow me to elaborate using a simple example on yehorivka:
+
+<img width="964" height="769" alt="image" src="https://github.com/user-attachments/assets/e2912967-a81b-441e-b3f2-741e20e88fa6" />
+
+Assume you are called in for a squad pickup from "Alexei Posad" to "East Mogilyovo". Also we will assume there to be no enemy armor on the map and only enemy infantry on "Lower Mogilyovo". 
+
+Part of the approach is bbeing aware of which helicopter one is flying and knowing what it is capable of in terms of manurevering and plain size
 
 
 #### ZERO COLL LANDING
