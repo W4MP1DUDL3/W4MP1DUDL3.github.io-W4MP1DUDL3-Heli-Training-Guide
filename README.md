@@ -121,7 +121,7 @@ Ask any expreienced pilot and they will agree that the approach is one of the co
 
 <img width="964" height="769" alt="image" src="https://github.com/user-attachments/assets/e2912967-a81b-441e-b3f2-741e20e88fa6" />
 
-Assume you are called in for a squad pickup from "Alexei Posad" to "East Mogilyovo". Also we will assume there to be no enemy armor on the map and only enemy infantry on "Lower Mogilyovo". 
+Assume you are flying a "Blackhawk UUH-60M" and are called in for a squad pickup from "Alexei Posad" to "East Mogilyovo". Also we will assume there to be no enemy armor on the map and only enemy infantry on "Lower Mogilyovo". From the map itself and our expected knowledge of enemy assets, the optimal approach without furthe map knowledge, becasue we can move in three dimension, will be assumed as a straing line from the pickup LZ to the dropoff LZ.
 
 Part of the approach is bbeing aware of which helicopter one is flying and knowing what it is capable of in terms of manurevering and plain size
 
